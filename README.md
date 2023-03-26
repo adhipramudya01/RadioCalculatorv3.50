@@ -1,2 +1,2 @@
-# RadioCalculatorv3.50
+# RadioCalculator v3.50
 Calculate Resonan Circuits.
